@@ -1,4 +1,4 @@
-# Maven Project Creation 
+# Maven Project Creation guide
 
 ![image](https://github.com/Shubh2-0/Maven-Projects/assets/112773220/418bf9c4-1df0-47ce-9e24-d036f846c471)
 
